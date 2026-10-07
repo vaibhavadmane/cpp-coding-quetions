@@ -1,0 +1,1 @@
+// intersection of two array same as mising value 
